@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Matías Alex</h1>
 <h3 align="center">A passionate frontend and backend -> "Full stack" from Argentina.</h3>
 
+![Fondo personalizado](https://imgur.com/YYpukUq)
+
 - 👨‍💻 All of my projects are available at muy pronto :)
 
 - 📫 How to reach me **www.linkedin.com/in/matiasalex**
