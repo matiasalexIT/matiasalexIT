@@ -1,8 +1,12 @@
 # matiasalex
 <h1 align="center">Hi 👋, I'm Matías Alex</h1>
 <h3 align="center">A passionate frontend and backend -> "Full stack" from Argentina.</h3>
+<h2></h2>
 
-![Fondo personalizado](https://imgur.com/YYpukUq)
+![port](https://github.com/user-attachments/assets/ba3d7380-dd96-4daa-bbfc-fedcbdc7c934)
+
+<h2></h2>
+
 
 - 👨‍💻 All of my projects are available at muy pronto :)
 
